@@ -7,7 +7,7 @@ Free University of Bozen-Bolzano, Bolzano, Italy<br>
 mfumagalli@unibz.it<br>
 
 **Gal Engelberg**<br>
-Accenture Israel Cyber R&D Lab, Tel Aviv, Israel<br>
+Accenture Cyber R&D Lab, Tel Aviv, Israel<br>
 gal.engelberg@accenture.com<br>
 
 **Victor D. Corvalan**<br>
@@ -15,7 +15,7 @@ Accenture CIO, Buenos Aires, Agentina<br>
 victor.d.corvalan@accenture.com<br>
 
 **Dan Klein**<br>
-Accenture Israel Cyber R&D Lab, Tel Aviv, Israel<br>
+Accenture Cyber R&D Lab, Tel Aviv, Israel<br>
 dan.klein@accenture.com<br>
 
 **Pnina Soffer**<br>
