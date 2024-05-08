@@ -1,8 +1,31 @@
-1. Alessandro Mosca; Free University of Bozen-Bolzano, Bolzano, Italy; ISTC-CNR Laboratory for Applied Ontology, Trento, Italy
-Mattia Fumagalli1; Free University of Bozen-Bolzano, Bolzano, Italy
-Gal Engelberg; Accenture Israel Cyber R&D Lab, Tel Aviv, Israel
-Victor D. Corvalan;
-Dan Klein; Accenture Israel Cyber R&D Lab, Tel Aviv, Israel
-Pnina Soffer; University of Haifa, Haifa, Israel
-Diego Calvanese; Free University of Bozen-Bolzano, Bolzano, Italy
-Giancarlo Guizzardi; Semantics, Cybersecurity & Services (SCS), University of Twente, The Netherlands
+**Alessandro Mosca**<br>
+Free University of Bozen-Bolzano, Bolzano, Italy; ISTC-CNR Laboratory for Applied Ontology, Trento, Italy<br>
+almosca@unibz.it<br>
+
+**Mattia Fumagalli1**<br>
+Free University of Bozen-Bolzano, Bolzano, Italy<br>
+mfumagalli@unibz.it<br>
+
+**Gal Engelberg**<br>
+Accenture Israel Cyber R&D Lab, Tel Aviv, Israel<br>
+gal.engelberg@accenture.com<br>
+
+**Victor D. Corvalan**<br>
+Accenture CIO, Buenos Aires, Agentina<br>
+victor.d.corvalan@accenture.com<br>
+
+**Dan Klein**<br>
+Accenture Israel Cyber R&D Lab, Tel Aviv, Israel<br>
+dan.klein@accenture.com<br>
+
+**Pnina Soffer**<br>
+University of Haifa, Haifa, Israel<br>
+spnina@is.haifa.ac.il<br>
+
+**Diego Calvanese**<br>
+Free University of Bozen-Bolzano, Bolzano, Italy<br>
+diego.calvanese@unibz.it<br>
+
+**Giancarlo Guizzardi**<br>
+Semantics, Cybersecurity & Services (SCS), University of Twente, The Netherlands<br>
+g.guizzardi@utwente.nl<br>
